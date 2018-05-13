@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: CapsuleMaterial
-  m_Shader: {fileID: 4800000, guid: 0dfaf69871922485a8f4928da307a9a3, type: 3}
+  m_Shader: {fileID: 4800000, guid: a3c87bde8fbfc476e9961765e021beb6, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -52,6 +52,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_3020E435_Texture:
+        m_Texture: {fileID: 2800000, guid: 2231107d2c4ea4e64a19cbef921ff669, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_91E5F3EB_Texture:
+        m_Texture: {fileID: 2800000, guid: 33510d80573654cfe803d9519ea3c251, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
